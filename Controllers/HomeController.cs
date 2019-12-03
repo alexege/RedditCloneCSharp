@@ -11,13 +11,20 @@ namespace Reddit2.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private MyContext dbContext;
+        public HomeController(MyContext context)
         {
-            _logger = logger;
+            dbContext = context;
         }
 
+        // private readonly ILogger<HomeController> _logger;
+
+        // public HomeController(ILogger<HomeController> logger)
+        // {
+        //     _logger = logger;
+        // }
+
+        [HttpGet("")]
         public IActionResult Index()
         {
             return View();
