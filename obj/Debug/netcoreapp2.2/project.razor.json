@@ -2966,8 +2966,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\alexe\\Documents\\CodingDojo\\Projects\\Reddit2\\Views\\Posts\\Index.cshtml",
+      "TargetPath": "Views\\Posts\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\alexe\\Documents\\CodingDojo\\Projects\\Reddit2\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alexe\\Documents\\CodingDojo\\Projects\\Reddit2\\Views\\Posts\\PostPartial.cshtml",
+      "TargetPath": "Views\\Posts\\PostPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2978,6 +2988,11 @@
     {
       "FilePath": "c:\\Users\\alexe\\Documents\\CodingDojo\\Projects\\Reddit2\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alexe\\Documents\\CodingDojo\\Projects\\Reddit2\\Views\\Posts\\New.cshtml",
+      "TargetPath": "Views\\Posts\\New.cshtml",
       "FileKind": "mvc"
     },
     {

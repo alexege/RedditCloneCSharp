@@ -29,3 +29,6 @@ C:\Users\alexe\Documents\CodingDojo\Projects\Reddit2\obj\Debug\netcoreapp2.2\Red
 C:\Users\alexe\Documents\CodingDojo\Projects\Reddit2\obj\Debug\netcoreapp2.2\Reddit2.dll
 C:\Users\alexe\Documents\CodingDojo\Projects\Reddit2\obj\Debug\netcoreapp2.2\Reddit2.pdb
 C:\Users\alexe\Documents\CodingDojo\Projects\Reddit2\obj\Debug\netcoreapp2.2\Reddit2.csproj.CopyComplete
+C:\Users\alexe\Documents\CodingDojo\Projects\Reddit2\obj\Debug\netcoreapp2.2\Razor\Views\Posts\Index.cshtml.g.cs
+C:\Users\alexe\Documents\CodingDojo\Projects\Reddit2\obj\Debug\netcoreapp2.2\Razor\Views\Posts\New.cshtml.g.cs
+C:\Users\alexe\Documents\CodingDojo\Projects\Reddit2\obj\Debug\netcoreapp2.2\Razor\Views\Posts\PostPartial.cshtml.g.cs
